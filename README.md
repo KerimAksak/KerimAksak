@@ -38,3 +38,6 @@
 <a href = "https://www.instagram.com/kerim.aksak/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 </div>
+
+
+![snake gif](https://github.com/KerimAksak/KerimAksak/blob/output/github-contribution-grid-snake.gif)
