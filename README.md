@@ -1,6 +1,6 @@
 ![Github Banner](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png)
 
-<h1 align="center">Hi, I'm Kerim<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Kerim</h1>
 
 <h3 font-size="20" align="center">I am developing backend services for cloud storage.</h3>
 <br>
